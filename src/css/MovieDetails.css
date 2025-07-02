@@ -1,0 +1,14 @@
+.movie-details {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1rem;
+    color: white;
+    text-align: center;
+  }
+  
+  .movie-details img {
+    width: 300px;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+  }
+  
